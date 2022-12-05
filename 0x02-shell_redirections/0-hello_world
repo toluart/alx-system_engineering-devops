@@ -1,2 +1,3 @@
 #!/bin/bash
-pr "Hello World"
+echo “Hello, World”
+/n
